@@ -1,0 +1,11 @@
+I learned decently in this module. I particularly liked :
+ - number of iterations in second loop is equal to iteration counter in first
+   loop - then it will be '1+2+3+..n' = O(n^2)
+ - The Amortized problem - where max only 'N' checks will happen - thus even
+   with two loops - complexity is O(n)
+ - GCD problem which I didn't understand
+ - opposite of first case - where u start with 'N' and in second loop u go
+   till 1st iteration counter. and in each iteration u decrease it by half
+ - all recursive problems. I have to understand them more.
+
+All the above cases can be found in bookmark section of InterviewBit
