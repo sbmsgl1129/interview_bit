@@ -1,0 +1,9 @@
+This doc will contain all the things which I need to cover. As and when I do
+it, I will mark it as done.
+
+---Time complexity
+ - RAM model of computation
+ - Asymptotic notations(more idea on that)
+ - Recursive problems - time complexity calculation/visualization
+   -> for every recursive problem u solve calculate TC
+   -> this will improve u in that area - u r weak!
