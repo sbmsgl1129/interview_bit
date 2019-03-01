@@ -4,7 +4,7 @@ class Solution:
     def solve(self, A):
 
         vowels = {'a':1, 'e':1, 'i':1, 'o':1, 'u':1}
-        vowel_positions = [idx if char in vowels for idx, char in enumerate(A)]
+        vowel_positions = [idx for idx, char in enumerate(A) if char.lower() in vowels]
 
         str_len = len(A)
         num_amazing_substrings = 0
